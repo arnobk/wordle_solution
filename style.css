@@ -1,0 +1,36 @@
+body{ 
+    font-family: 'Poppins', sans-serif !important;
+    font-size: larger;
+}
+.title {
+    text-align: center;
+    font-size: larger;
+}
+.date-picker, .wordle_answer {
+    width: 80%;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+.wordle_answer {
+    margin: 20px auto;
+}
+
+.solution-text {
+    background-color: #538d4e;
+    color: #fff;
+    padding: 1px 5px;
+    margin-right: 2px;
+}
+
+input[type=date]{
+    font-size: large;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+input[type=submit]{
+    font-size: large;
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif !important;
+}
